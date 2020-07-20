@@ -24,3 +24,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.history/
+/.history
+/.history/
+
+.history*
+
+.vscode/
+.vscode*
